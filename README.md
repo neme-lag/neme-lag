@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @neme-lag
 - I’m a newbie blockchain developer
+- 👀 I’m currently a security researcher
+- 🌱 I’m currently learning cybersecurity 
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on ...
